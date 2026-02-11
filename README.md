@@ -21,7 +21,7 @@ Sistem kaynaklarını (CPU, Memory, Disk) izleyen ve belirlenen eşik değerleri
 
 1. **Repoyu klonlayın:**
 ```bash
-git clone https://github.com/kullaniciadi/resource-monitor.git
+git clone https://github.com/samyoune06/ResourceMonitor.git
 cd resource-monitor
 ```
 
