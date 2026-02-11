@@ -1,0 +1,19 @@
+#############################################
+# Resource Monitor - Configuration File
+#############################################
+# Bu dosyayı config.conf olarak kopyalayın
+# ve kendi SMTP ayarlarınızla düzenleyin
+
+# SMTP Sunucu Ayarları
+SMTP_SERVER="smtp.example.com"
+SMTP_PORT="587"                    # 587 (TLS) veya 465 (SSL)
+SMTP_USER="monitor@example.com"
+SMTP_PASS="your-password-here"
+
+# Uyarı Email Adresi
+ALERT_EMAIL="admin@example.com"
+
+# Eşik Değerleri (opsiyonel - değiştirmek isterseniz)
+# MEMORY_THRESHOLD=90
+# DISK_THRESHOLD=90
+# CPU_THRESHOLD=90
